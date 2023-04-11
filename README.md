@@ -1,6 +1,8 @@
 # casulo-temp
 Google Sheets automatic dashboard to monitor temperature in a controled room with a Discord webhook for notification.
 
+Measurements are made using an old smartphone sensor and written locally to a csv file with a cronjob. File is then uploaded to Google Drive and updated in real-time using Apps Scripts in Google Sheets.
+
 Live at:
 
 https://docs.google.com/spreadsheets/d/127Ue2cakRHQ5cHg0Oc269ASXCF22WgnUYPR8qwN4eXE/edit#gid=2001391352
